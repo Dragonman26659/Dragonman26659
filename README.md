@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Dragonman26659
+- 👀 I’m interested in creating 3D games in unity
+- 🌱 I’m currently learning how to make AI agents in unity for FPS games
+- 💞️ I’m looking to collaborate on any 3D unity games 
+- 📫 How to reach me: dragonman#9228 on discord
